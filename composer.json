@@ -1,0 +1,20 @@
+{
+    "name": "islamgaber/jsondb",
+    "description": "A simple JSON database library for PHP.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JsonDB\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Islam Gaber",
+            "email": "islamgaber873@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
