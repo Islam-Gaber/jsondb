@@ -16,5 +16,6 @@
             "email": "islamgaber873@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable"
 }
