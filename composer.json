@@ -3,8 +3,7 @@
     "description": "A simple JSON database library for PHP.",
     "type": "library",
     "require": {
-        "php": ">=7.0",
-        "islamgaber/jsondb": "^1.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
@@ -18,5 +17,6 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
